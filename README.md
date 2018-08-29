@@ -2,7 +2,7 @@
 This program evaluates mathematical and logical expressions with the use of variables and if-statements
 
 ## Running locally
-You can use any C++ compiler of your choice to build and run this project. Provide the input to the program by placing the "input.txt" in the main directory. File "module3" contains the main function which will start the program.
+You can use a C++ compiler of your choice to build and run this project. Provide the input to the program by placing the "input.txt" in the main directory. File "module3" contains the main function which will start the program.
 
 ## Expected output
 Expressions with variables:
